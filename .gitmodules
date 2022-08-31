@@ -1,0 +1,3 @@
+[submodule "plugins/start/unicode"]
+	path = plugins/start/unicode
+	url = https://github.com/chrisbra/unicode.vim
