@@ -1,3 +1,6 @@
 [submodule "plugins/start/unicode"]
 	path = plugins/start/unicode
 	url = https://github.com/chrisbra/unicode.vim
+[submodule "plugins/opt/killersheep"]
+	path = plugins/opt/killersheep
+	url = https://github.com/vim/killersheep
